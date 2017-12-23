@@ -11,4 +11,5 @@ create by ahmed mhosen elbazz
 #Compatible Browsers :	IE10, IE11, Firefox, Safari, Opera, Chrome, Edge
 #Included	: HTML Files, CSS Files, JS Files, images file
 #UNIncluded : sass files / NPM Init json for compile amd minify js / css
+#supported : RTL / LTR
 
